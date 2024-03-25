@@ -28,7 +28,7 @@
        <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-lambda</artifactId>
-            <version>1.12.405</version>
+            <version>1.12.686</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
@@ -176,7 +176,7 @@
         <dependency>
             <groupId>com.googlecode.owasp-java-html-sanitizer</groupId>
             <artifactId>owasp-java-html-sanitizer</artifactId>
-            <version>20211018.1</version>
+            <version>20240325.1</version>
         </dependency>
         <dependency>
             <groupId>com.google.api-client</groupId>
