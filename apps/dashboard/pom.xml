@@ -259,7 +259,7 @@
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>wafv2</artifactId>
-            <version>2.32.26</version> <!-- Use latest version -->
+            <version>2.40.14</version> <!-- Use latest version -->
         </dependency>
     </dependencies>
     <build>
