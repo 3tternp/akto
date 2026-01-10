@@ -52,7 +52,7 @@
     "vuera": "^0.2.7",
     "vuetify": "^2.4.3",
     "vuex": "^3.6.2",
-    "zustand": "^4.0.0"
+    "zustand": "^4.4.7"
   },
   "browserslist": [
     "> 1%",
