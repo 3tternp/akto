@@ -19,7 +19,7 @@
     "@tiptap/react": "^2.11.5",
     "@tiptap/starter-kit": "^2.11.5",
     "assert": "^2.1.0",
-    "axios": "^1.4.0",
+    "axios": "^1.7.4",
     "buffer": "^6.0.3",
     "dayjs": "^1.11.5",
     "deep-diff": "^1.0.2",
