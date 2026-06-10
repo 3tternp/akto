@@ -22,7 +22,7 @@
     "ag-grid-enterprise": "^35.3.0",
     "ag-grid-react": "^35.3.0",
     "assert": "^2.1.0",
-    "axios": "^1.4.0",
+    "axios": "^1.16.0",
     "buffer": "^6.0.3",
     "dayjs": "^1.11.5",
     "deep-diff": "^1.0.2",
