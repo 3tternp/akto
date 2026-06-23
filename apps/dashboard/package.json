@@ -11,12 +11,12 @@
     "hot": "VERSION=$RELEASE_VERSION webpack  --watch --progress --config web/webpack.config.js"
   },
   "dependencies": {
-    "@babel/core": "^7.13.10",
+    "@babel/core": "^7.23.2",
     "@babel/eslint-parser": "^7.13.10",
     "@babel/plugin-proposal-object-rest-spread": "^7.13.8",
     "@babel/plugin-transform-react-jsx": "7.12.11",
     "@babel/plugin-transform-runtime": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
+    "@babel/preset-env": "^7.23.3",
     "@babel/preset-react": "7.0.0",
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
@@ -31,7 +31,7 @@
     "@mui/material": "^5.9.2",
     "@mui/x-date-pickers": "^5.0.0",
     "are-you-es5": "^2.1.1",
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "dayjs": "^1.11.5",
     "fiber": "^1.0.4",
